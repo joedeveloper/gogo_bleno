@@ -1,0 +1,15 @@
+{
+  "name": "gogo-service",
+  "version": "0.1.0",
+  "description": "BLE (Bluetooth Low Energy) GOGO Service",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "author": {
+    "name": "Joachim Larsen"
+  },
+  "dependencies": {
+    "bleno": ">0.1.4"
+  }
+}
